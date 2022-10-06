@@ -17,3 +17,8 @@ h2 {
 #black {
   color: black;
 }
+
+img {
+  height: 50%;
+  width: 50%;
+}
